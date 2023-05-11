@@ -8,9 +8,10 @@ organizations.
 
 **Python :** The project is built using the Python programming language. The specific
 version used may vary depending on the developer's preference.
-Jupyter Notebook : Jupyter Notebook is an open-source web application that allows
-developers to create and share documents that contain live code, equations visualizations, and narrative text. It is commonly used in machine learning projects
-and was likely used in this project as well.
+
+**Jupyter Notebook :** Jupyter Notebook is an open-source web application that allows
+developers to create and share documents that contain live code, equations visualizations, and narrative text.
+It is commonly used in machine learning projects and was likely used in this project as well.
 
 **Lucid.app :** Most of the graphical presentation (like- UML, DFD, flowchart) of this
 project is made using lucid.app and ms paint.
