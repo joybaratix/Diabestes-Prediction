@@ -3,7 +3,6 @@ import pandas as pd
 df = pd.read_csv("https://github.com/joybaratix/Diabestes-Prediction/blob/main/diabetes_raw_dataset.csv")
 df
 
-
 from sklearn.model_selection import train_test_split
 # Split the dataset into features (X) and target (y)
 X = df.drop('Outcome', axis=1)
