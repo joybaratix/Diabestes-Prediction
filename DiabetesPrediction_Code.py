@@ -1,6 +1,6 @@
 import pandas as pd
 # Load the dataset
-df = pd.read_csv("E:\\B.Sc\\MachineLearning\\Project\\DiabetesRawData.csv")
+df = pd.read_csv("https://github.com/joybaratix/Diabestes-Prediction/blob/main/diabetes_raw_dataset.csv")
 df
 
 
