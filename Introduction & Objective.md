@@ -1,4 +1,5 @@
-INTRODUCTION :
+**INTRODUCTION :**
+
 Diabetes is a chronic disease that affects millions of people worldwide. Early
 diagnosis and treatment can help prevent complications and improve patient
 outcomes. In this project, we aim to predict the likelihood of a person developing
@@ -12,7 +13,8 @@ Scikit-learn and Pandas, to preprocess the data, train and evaluate different mo
 and make predictions.
 
 
-OBJECTIVE :
+**OBJECTIVE :**
+
 The objective of a diabetes prediction project is to develop a machine learning model
 that can accurately predict the likelihood of a person developing diabetes. This
 model can be used to identify high-risk individuals and provide appropriate
