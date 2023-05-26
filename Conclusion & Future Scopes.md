@@ -27,12 +27,12 @@ to improve the accuracy of the model. This can be achieved by experimenting with
 different machine learning algorithms, adjusting hyperparameters, and using more
 advanced feature selection techniques._
 
-_**Developing a mobile application :** The model can be integrated into a mobile
+_**Developing a Mobile Application :** The model can be integrated into a mobile
 application that can be used by patients to predict their likelihood of developing
 diabetes. This application can be linked to wearable devices that can track various
 health parameters such as heart rate, blood pressure, and blood sugar levels._
 
-_**Creating a web-based platform :** The model can be deployed on a web platform that
+_**Creating a Web-based platform :** The model can be deployed on a web platform that
 can be used by healthcare professionals to predict the likelihood of diabetes in their
 patients. This platform can be integrated with electronic health records (EHR)
 systems to make it easier for healthcare professionals to access patient data._
