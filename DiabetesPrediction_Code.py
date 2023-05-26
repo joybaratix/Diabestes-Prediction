@@ -67,7 +67,7 @@ plt.xlabel('Patient Outcome')
 plt.ylabel('Average Glucose Level')
 plt.show()
 
-# Scatter plot of BMI vs age for diabetic and non-diabetic patients
+#Scatter plot of BMI vs age for diabetic and non-diabetic patients
 non_diabetic = df[df['Outcome'] == 0]
 diabetic = df[df['Outcome'] == 1]
 plt.scatter(non_diabetic['Age'], non_diabetic['BMI'], label='Non-Diabetic', alpha=0.5)
